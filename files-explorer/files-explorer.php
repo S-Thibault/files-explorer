@@ -1,4 +1,9 @@
 <?php
+/********************************
+Simple PHP File Manager
+Copyright John Campbell (jcampbell1)
+Liscense: MIT
+********************************/
 
 //Disable error report for undefined superglobals
 error_reporting( error_reporting() & ~E_NOTICE );
@@ -444,5 +449,5 @@ $(function(){
 </tr></thead><tbody id="list">
 
 </tbody></table>
-<footer><a href="https://github.com/thinkdj/simple-php-file-manager" target="_blank">Simple PHP File Manager</a> (forked from <a href="https://github.com/jcampbell1/simple-file-manager" target="_blank">simple-file-manager</a>)</footer>
+<footer><a href="" target="_blank">Simple PHP File Manager</a> (forked from <a href="" target="_blank">simple-file-manager</a>)</footer>
 </body></html>
